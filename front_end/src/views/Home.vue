@@ -2,7 +2,8 @@
   <div class="home">
     <div class="header">Mathematical Calculator</div>
     <div class="explanation">
-  <p>This is a mathematical calculator that can help you solve some tough math equations. Some of these equations include:</p>
+  <p>This website is here to help you with tough equations and calculations that your iPhone maybe won't help you with. 
+    Use the examples below in case you are unsure how to format your question.</p>
   </div>
   <div class="grid">
     <div>Simplify<br>Ex: 2^2 + 2(2) = 8</div>

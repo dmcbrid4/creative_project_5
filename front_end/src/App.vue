@@ -1,7 +1,7 @@
 <template>
 <div id="app">
   <div class="pure-menu">
-    <span class="pure-menu-heading"><b>Math Calc</b></span>
+    <span class="pure-menu-heading"><b>Math Help</b></span> 
     <ul class="pure-menu-list">
       <li class="pure-menu-item">
         <router-link to="/" class="pure-menu-link">Home</router-link>
@@ -32,9 +32,7 @@
   min-height: 100%;
 }
 .pure-menu {
-  /* To limit the menu width to the content of the menu: */
-  /* display: inline-block; */
-  /* Or set the width explicitly: */
+
   text-align: left;
   background: #F5F3EF;
 }
@@ -43,12 +41,13 @@
   font-size: 1.2em;
   padding: 20px 20px;
   background-color: #489F97;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
 }
 .pure-menu-link {
   color: #A58153;
-  padding: 10px 20px;
+  padding: 3px 50px;
   font-weight: 800;
+  margin-top: 20px;
 }
 .pure-menu-link:hover {
   background: #489F97;
@@ -124,14 +123,7 @@ body {
 .modal-default-button {
   float: right;
 }
-/*
-  * The following styles are auto-applied to elements with
-  * transition="modal" when their visibility is toggled
-  * by Vue.js.
-  *
-  * You can easily play with the modal transition by editing
-  * these styles.
-  */
+
 .modal-enter {
   opacity: 0;
 }

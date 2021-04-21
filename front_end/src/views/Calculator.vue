@@ -36,7 +36,7 @@
   </div>
   <footer class="footer">
   <div class="container">
-    <span class="text-muted"><a href="https://github.com/jshirl10/Creative-Project-5.git">TA Link</a></span>
+    <span class="text-muted"><a href="https://github.com/dmcbrid4/creative_project_5">Github: Hours spent: 7</a></span>
   </div>
 </footer>
 </div>

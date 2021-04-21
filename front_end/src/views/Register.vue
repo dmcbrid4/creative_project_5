@@ -6,7 +6,7 @@
       <p class="pure-form-message-inline">All fields are required.</p>
 
       <div class="pure-control-group">
-        <label for="name">Real Name</label>
+        <label for="name">Full Name</label>
         <input v-model="name" type="text" placeholder="Real Name">
       </div>
 
