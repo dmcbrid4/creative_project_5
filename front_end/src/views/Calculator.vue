@@ -30,7 +30,7 @@
       </div>
   </div>
   <div v-else>
-    <p>If you would like calculate a function, please register for an account or login.</p>
+    <p>If you would like calculate a function, please register for an account, or login.</p>
     <router-link to="/register" class="pure-button">Register</router-link> or
     <router-link to="/login" class="pure-button">Login</router-link>
   </div>
